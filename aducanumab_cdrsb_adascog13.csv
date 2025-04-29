@@ -1,0 +1,17 @@
+﻿Drug,Trial,Dose,Carrier Status,Endpoint,Treatment Difference (SE),Effect Size
+Aducanumab,301,High,Carrier,CDR-SB,0.07 (0.18),0.04
+Aducanumab,301,High,Non-carrier,CDR-SB,-0.06 (0.30),-0.03
+Aducanumab,301,Low,Carrier,CDR-SB,-0.16 (0.18),-0.08
+Aducanumab,301,Low,Non-carrier,CDR-SB,-0.24 (0.30),-0.12
+Aducanumab,301,High,Carrier,ADAS-Cog13,0.04 (0.60),0.01
+Aducanumab,301,High,Non-carrier,ADAS-Cog13,-2.18 (1.04),-0.31
+Aducanumab,301,Low,Carrier,ADAS-Cog13,-0.26 (0.59),-0.04
+Aducanumab,301,Low,Non-carrier,ADAS-Cog13,-1.48 (1.03),-0.21
+Aducanumab,302,High,Carrier,CDR-SB,-0.53 (0.19),-0.27
+Aducanumab,302,High,Non-carrier,CDR-SB,-0.08 (0.27),-0.04
+Aducanumab,302,Low,Carrier,CDR-SB,-0.40 (0.19),-0.2
+Aducanumab,302,Low,Non-carrier,CDR-SB,0.10 (0.27),0.05
+Aducanumab,302,High,Carrier,ADAS-Cog13,-1.70 (0.64),-0.24
+Aducanumab,302,High,Non-carrier,ADAS-Cog13,-0.71 (1.00),-0.1
+Aducanumab,302,Low,Carrier,ADAS-Cog13,-1.59 (0.64),-0.23
+Aducanumab,302,Low,Non-carrier,ADAS-Cog13,1.15 (1.00),0.16
